@@ -1,0 +1,3 @@
+[submodule "Assets/PopUnitySockets"]
+	path = Assets/PopUnitySockets
+	url = https://github.com/NewChromantics/PopUnitySockets.git
