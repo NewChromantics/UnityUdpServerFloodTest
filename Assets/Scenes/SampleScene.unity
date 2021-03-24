@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 52055760}
   - component: {fileID: 52055759}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Text kbps
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -609,7 +609,7 @@ GameObject:
   - component: {fileID: 1173818621}
   - component: {fileID: 1173818620}
   m_Layer: 5
-  m_Name: Text (1)
+  m_Name: Text debug
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -758,8 +758,8 @@ MonoBehaviour:
   OnKbpsFloat:
     m_PersistentCalls:
       m_Calls: []
-  MaxJobsPerFrame: 686
-  MaxPacketsPerFrame: 808
+  MaxJobsPerFrame: 1773
+  MaxPacketsPerFrame: 2142
   UseAsyncServer: 0
   VerboseDebug: 0
   Ports: 38150000
